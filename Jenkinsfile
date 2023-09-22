@@ -1,4 +1,4 @@
 @Library('roboshop') _
 
-env.codeType = "java"
+env.codeType = "maven"
 cipipeline()
